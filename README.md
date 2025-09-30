@@ -1,5 +1,13 @@
 # LABORATORIO 1 DE DESARROLLO DE SOFTWARE III
 
+## INTEGRANTES
+
+- Manuel Jesús Rosero Zuñiga 2176007-3743
+
+## URL LABORATORIO 1
+
+https://github.com/Manu-3l/desarrollo-3-ygo.git
+
 ## Explicación
 
 Este laboratorio se hizo en base al juego de cartas coleccionables conocido como Yu-Gi-Oh! teniendo de objetivo poner a prueba lo visto durante las ultimas clases en cuanto al desarrollo usando APIs, en este caso para hacer un juego simple en el que llamamos a los datos de la API YGOProDeck los cuales usaremos para detalles visuales y mecanicos. El punto del juego es comparar cartas que son llamadas para ser usadas desde la API, en este caso 3 de ellas que tienen que ser del tipo monstruo (Ya sea de efecto, normal o del Extra Deck). El usuario podrá escoger cualquiera de estas tres cartas y elegir si usará su ATK o DEF para compararlas con las de la maquina. La interfaz del programa utiliza Java Swing para simular el duelo

@@ -13,7 +13,7 @@
 <img width="917" height="425" alt="image" src="https://github.com/user-attachments/assets/e1bcefd8-ba26-407e-80b0-a81a79e2886c" />
 
 ## Pantalla para declarar al ganador del duelo
-<img width="917" height="425" alt="image" src="https://github.com/user-attachments/assets/2033e265-2733-488e-b544-934415f902ba" />
+<img width="425" height="917" alt="image" src="https://github.com/user-attachments/assets/2033e265-2733-488e-b544-934415f902ba" />
 
 ## Log de combates
 <img width="826" height="780" alt="image" src="https://github.com/user-attachments/assets/6954abc4-cf0e-4be0-b04a-5887b94c90e6" />

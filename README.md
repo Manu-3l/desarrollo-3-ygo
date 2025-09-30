@@ -8,16 +8,25 @@ Un aspecto clave de la aplicación es el uso de la API YGOProDeck para obtener l
 
 ## Guia de usuario
 1- Al iniciar el programa desde el main se abre la pantalla principal, al principio solo tiene un botón y el log
+
 2- Al presionar este botón el programa llama los datos de la API para robar 3 cartas aleatorias
+
 3- Al terminar de cargar ahora el programa muestra las siguientes cosas:
+
 - En la parte superior hay tres cartas boca abajo con un color grisaceo, son las cartas de la maquina y no son elegibles por el usuario
 - Abajo estan las 3 cartas del usuario con los nombres y estadisticas del Monstruo
+
+  
 4- El usuario debe de escoger una de estas tres cartas, para posteriormente luego de que salga un mensaje escoger si usa su ATK o DEF
+  
 5- Se lleva a cabo la logica para que la maquina escoja que carta usar, al hacerlo se calcula quien tiene la mayor caracteristica.
+
 - Si es ATK se compara con el ATK de la maquina
 - Si es DEF se compara con el ATK de la maquina tambien.
 6- Una vez se muestra quien gano el turno del duelo se debe de presionar el botón de continuar.
+  
 7- Al hacer esto se muestra la carta usada de la maquina arriba, siendo inusable tanto por el usuario como la IA, pero tambien la carta que escogió el usuario le sucede lo mismo.
+
 8- Esto se repite hasta que la maquina o el usuario gana 2 veces.
 
 ## Pantalla inicial
